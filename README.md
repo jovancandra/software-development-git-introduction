@@ -4,3 +4,12 @@ Repository ini dibuat sebagai tugas pengenalan Git dan GitHub pada mata kuliah S
 
 Nama : Jovan Candra Winata  
 NPM : 2313020070
+
+## Tools yang digunakan
+- Git
+- GitHub
+- Visual Studio Code
+
+## Daftar File
+- README.md
+- perkenalan.md
